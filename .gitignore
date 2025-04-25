@@ -5,3 +5,4 @@ MANIFEST
 autocorrect/data/*
 .coverage
 .DS_Store
+.
